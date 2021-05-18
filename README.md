@@ -4,6 +4,7 @@
 - 상명대학교 컴퓨터과학과 졸업
 - 이젠IT아카데미컴퓨터학원 교육 수료: 자바 안드로이드 웹&앱 개발자<br>
 <br>
+
 ## Skill
 - Java
 - JavaScript + jQuery, Ajax
@@ -11,6 +12,7 @@
 - Spring Framework
 - Oracle Database
 <br>
+
 <div>
   <img src="https://img.shields.io/github/followers/201511094?style=social">
   <a href="https://github.com/201511094/java_webapp">
