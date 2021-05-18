@@ -1,9 +1,5 @@
 <div>
   <img src="https://img.shields.io/github/followers/201511094?style=social">
-  <a href="https://github.com/201511094/java_webapp">
-    <img src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://github.com/201511094/java_webapp" 
-         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-  </a>
 </div>
 
 ## 안녕하세요 김주현입니다.
@@ -20,3 +16,10 @@
 - JSP
 - Spring Framework
 - Oracle Database
+
+<div>
+  <a href="https://github.com/201511094/java_webapp">
+    <img src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://github.com/201511094/java_webapp" 
+         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+  </a>
+</div>
